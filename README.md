@@ -1,0 +1,3 @@
+# HS_self
+
+Simulazione...
